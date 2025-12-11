@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "963019787604",
+    "project_id": "posttest8firebase",
+    "storage_bucket": "posttest8firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963019787604:android:ddbea04919e7f382fbccc1",
+        "android_client_info": {
+          "package_name": "com.galih254.post8firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH9k44LR5QsNdFBNIh5BpsRQYAbsVzjs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
